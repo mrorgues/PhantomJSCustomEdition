@@ -10,3 +10,6 @@ Build an application which includes the following workaround:
 
 Edit hub_register.js (src/ghostdriver) and comment out the following line: 
 platform: ghostdriver.system.os.name + '-' + ghostdriver.system.os.version + '-' +
+
+# Builds
+https://github.com/mrorgues/phantomjs_custom_edition/tree/builds
