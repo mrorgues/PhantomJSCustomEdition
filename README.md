@@ -1,4 +1,4 @@
-# [PhantomJS - Custom Edition](https://github.com/mrorgues/phantomjs_custom_edition) - Scriptable Headless WebKit
+# [PhantomJS - Custom Edition](https://github.com/mrorgues/PhantomJSCustomEdition) - Scriptable Headless WebKit
 
 This application is a fork of PhantomJS. Please read: https://github.com/ariya/phantomjs/blob/master/README.md
 
